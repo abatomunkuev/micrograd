@@ -1,3 +1,4 @@
+import math
 class Value:
     """
     Core data structure of Micrograd. Stores a single scalar (data) and its gradient.
